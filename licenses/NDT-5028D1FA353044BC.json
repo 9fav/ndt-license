@@ -1,5 +1,5 @@
 {
-  "license_id": "LIC-ED49A40EB59E",
+  "license_id": "LIC-EF8B903A7F3E",
   "product": "NDT数据处理软件",
   "customer_name": "大老板",
   "machine_id": "NDT-5028D1FA353044BC",
@@ -10,5 +10,5 @@
   "features": [
     "all"
   ],
-  "signature": "ed07aef96c28ec39de54cbcf937035747a68d7d79843ae36782ad335400421db7ed6241fff432ae0e664c9ec978ba87dcf1e3341211e6b7e27f1936a1dabe001"
+  "signature": "82e88fc2bdd2d379472e0ae7f0f5bf8f73a84a4303e7f2e90dfe7bde2ee84d487e85391476d73ffd577bd407fa570bcbec82d8f614866d3845c0e584c405b90d"
 }
