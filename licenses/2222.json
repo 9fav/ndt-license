@@ -1,0 +1,14 @@
+{
+  "license_id": "LIC-9431D9F5DD36",
+  "product": "NDT数据处理软件",
+  "customer_name": "李四",
+  "machine_id": "2222",
+  "issued_at": "2026-09-08",
+  "duration_days": 30,
+  "expires_at": "2026-10-08",
+  "status": "active",
+  "features": [
+    "all"
+  ],
+  "signature": "f510a1d5a9b3addd44097a7f1b494710a2f38455a0aec467fb46268cca3b73a1435eddf3cce32b0952d1e23f27d195de74e49a4429d19223aa4acbdebe04f90d"
+}
