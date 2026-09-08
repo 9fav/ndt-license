@@ -1,0 +1,14 @@
+{
+  "license_id": "LIC-659143FCBABD",
+  "product": "NDT数据处理软件",
+  "customer_name": "张三",
+  "machine_id": "333",
+  "issued_at": "2026-09-08",
+  "duration_days": 365,
+  "expires_at": "2027-09-08",
+  "status": "active",
+  "features": [
+    "all"
+  ],
+  "signature": "ad863facadfc8d722ba17e326893bc041b34af8e13c45d765934914d360b29a0d51c615bfaef4d94642605b968ebc29d152a868050e1dedb734ad3cc4a4b0c09"
+}
