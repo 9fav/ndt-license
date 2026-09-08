@@ -1,14 +1,14 @@
 {
-  "license_id": "LIC-D250AFC48A9B",
+  "license_id": "LIC-2830DA070F3C",
   "product": "NDT数据处理软件",
   "customer_name": "张三",
   "machine_id": "0000",
   "issued_at": "2026-09-08",
-  "duration_days": 30,
-  "expires_at": "2026-10-08",
+  "duration_days": 1,
+  "expires_at": "2026-09-09",
   "status": "active",
   "features": [
     "all"
   ],
-  "signature": "4647d0ad9679355aad34abf72b72ec5ac75bc5e946bbd409165e25abea8a62cad1f770009c35663a6d9222126ef7da81fbc6c968d01647a6c7566d4b52d68306"
+  "signature": "91669adfd978867f5067867c7617b8ca55e62a7d0d204a78561ca1bac0e42530565a5b44a94424b4749223638db74b778b61b6668a95b627aadecd10ee9fc104"
 }
