@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "licenses": [
+    {
+      "license_id": "LIC-0965A6930821",
+      "customer": "测试的检测公司",
+      "machine_id": "XXXX",
+      "product": "NDT数据处理软件",
+      "issued_at": "2026-09-08",
+      "expires_at": "2026-10-01",
+      "status": "active",
+      "features": [
+        "all"
+      ],
+      "signature": "7a7747f2a538aa0db0869e7a89ab1dbef1c23e5730fa72cdfecb4e7143b55d1c3351745669914e14a3ecc46330a5d042bf37af7a4d5af837ef84e2df6b66f50b"
+    }
+  ]
+}
