@@ -17,5 +17,5 @@ jobs:
           dst_key: ${{ 34e8a3c57807515129c74903c1277aab }}
           dst_token: ${{ 34e8a3c57807515129c74903c1277aab }}
           account_type: user                    # 如果是组织账号，请改为 organization
-          static_list: 'ndt'             # 仅同步这个特定的仓库名
+          static_list: 'ndt-license=>ndt'             # 仅同步这个特定的仓库名
           force_update: true
