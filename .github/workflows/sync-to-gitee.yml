@@ -14,8 +14,8 @@ jobs:
         with:
           src: github/9fav      # 你的 GitHub 用户名/组织名
           dst: gitee/9fav        # 你的 Gitee 用户名/组织名
-          dst_key: ${{ 34e8a3c57807515129c74903c1277aab }}
-          dst_token: ${{ 34e8a3c57807515129c74903c1277aab }}
+          dst_key: ${{ secrets.GITEE_TOKEN }}    # 保持原样！不要替换成真实Token
+          dst_token: ${{ secrets.GITEE_TOKEN }}  # 保持原样！不要替换成真实Token
           account_type: user                    # 如果是组织账号，请改为 organization
           static_list: 'ndt-license=>ndt'             # 仅同步这个特定的仓库名
           force_update: true
