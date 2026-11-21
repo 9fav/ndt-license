@@ -1,14 +1,14 @@
 {
-  "license_id": "LIC-4FAFB007BA1E",
+  "license_id": "LIC-8293BC5E7281",
   "product": "NDT数据处理软件",
   "customer_name": "大老板",
   "machine_id": "NDT-5028D1FA353044BC",
-  "issued_at": "2026-10-11",
-  "duration_days": 1,
-  "expires_at": "2026-10-12",
+  "issued_at": "2026-11-21",
+  "duration_days": 365,
+  "expires_at": "2027-11-21",
   "status": "active",
   "features": [
     "all"
   ],
-  "signature": "70e487e8e2103f73c9c4b8393e8d25f581a9be404ceb859689b2ecb122aebcc8a80f53f67a749b0bc7146f4adfb77a796ee4098d13504a64f4fca8a09eaa8f07"
+  "signature": "ed991ee6e1447fbde369bb005197cedf57bb53300054e6e661009411ac4a2942606fc001d6c1517295e4b069ad7a980889f3446af1a191e6707be35567f36706"
 }
